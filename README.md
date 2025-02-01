@@ -13,7 +13,7 @@ You can click the Preview link to take a look at your changes.
 
 - 🌱 I’m currently learning **Next.js and TypeScript**
 
-- 💡 Passionate about **clean code, performance optimization, and great user experience**
+
 
 
 
