@@ -21,8 +21,6 @@ You can click the Preview link to take a look at your changes.
 
 
 
----
-[![Kadamato's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kadamato&show_icons=true&hide_border=true&theme=radical&border_radius=5px&locale=en&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 [![Kadamato's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kadamato&theme=radical&hide_border=true)](https://github.com/DenverCoder1/github-readme-streak-stats)
