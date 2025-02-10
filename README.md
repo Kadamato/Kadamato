@@ -5,6 +5,8 @@ You can click the Preview link to take a look at your changes.
 
 <h1 align="center">Hi 👋, I'm Kadamato</h1>
 
+<img src="https://media.giphy.com/media/https://i.pinimg.com/originals/84/2d/64/842d6400380e852d58a99132120b5977.gif" width="300px">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kadamato&label=Profile%20views&color=ff007e&style=flat" alt="kadamato" /> </p>
 
