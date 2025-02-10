@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kadamato</h1>
 
-<img src="https://i.pinimg.com/originals/84/2d/64/842d6400380e852d58a99132120b5977.gif" width="100%" height="450px" style="object-fit: cover;">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kadamato&label=Profile%20views&color=ff007e&style=flat" alt="kadamato" /> </p>
 
