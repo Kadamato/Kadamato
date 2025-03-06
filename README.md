@@ -8,7 +8,3 @@
 - 🌱 I’m currently learning **Next.js and TypeScript**  
 - 💡 Passionate about **clean code, performance optimization, and great user experience**  
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kadamato&theme=monokai&no-bg=true&no-frame=true" alt="kadamato" /></a> </p>
-
----
-[![Kadamato's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kadamato&show_icons=true&hide_border=true&theme=radical&border_radius=5px&locale=en&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
